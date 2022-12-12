@@ -1,0 +1,17 @@
+2022-11-29T20:29:39+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id bc3bab9fcb1aa9cda05fdc119cc3f215
+2022-11-29T20:29:41+00:00 NOTICE abandoned_cart.success :: email: shamaanjum1978@gmail.com :: checkout_url: https://gladiolusbd.com/checkout/?mc_cart_id=bc3bab9fcb1aa9cda05fdc119cc3f215
+2022-11-29T20:29:42+00:00 NOTICE cart.member.updated :: Updated shamaanjum1978@gmail.com subscriber status to transactional and language to en
+2022-11-29T20:32:18+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 14276
+2022-11-29T20:32:19+00:00 NOTICE debug :: Order ID 14276 was pending and is now processing :: Array
+(
+    [new_order] => 1
+    [tracking] => Array
+        (
+            [campaign_id] => 
+            [landing_site] => https://gladiolusbd.com/?wc-ajax=get_refreshed_fragments
+        )
+
+)
+
+2022-11-29T20:37:19+00:00 NOTICE order.member.updated :: Updated shamaanjum1978@gmail.com subscriber status to subscribed and language to en
+2022-11-29T20:37:19+00:00 NOTICE order_submit.success :: addStoreOrder :: #14276 :: email: shamaanjum1978@gmail.com :: landing site https://gladiolusbd.com/?wc-ajax=get_refreshed_fragments :: abandoned cart deleted [bc3bab9fcb1aa9cda05fdc119cc3f215]

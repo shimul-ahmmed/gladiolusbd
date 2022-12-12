@@ -1,0 +1,3 @@
+2022-11-21T12:55:43+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Cart_Update queued :: obj_id c0e20dbd4befa0e36c1173422d736935
+2022-11-21T12:55:45+00:00 NOTICE abandoned_cart.success :: email: gladiolusbd.web@gmail.com :: checkout_url: https://gladiolusbd.com/checkout/?mc_cart_id=c0e20dbd4befa0e36c1173422d736935
+2022-11-21T12:55:46+00:00 NOTICE cart.member.updated :: Updated gladiolusbd.web@gmail.com subscriber status to subscribed and language to en

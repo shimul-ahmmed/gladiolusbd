@@ -1,0 +1,9 @@
+2022-12-05T10:05:53+00:00 NOTICE debug :: Order ID 14276 was processing and is now cancelled :: Array
+(
+    [new_order] => 
+    [tracking] => 
+)
+
+2022-12-05T10:05:53+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Order starts in 90 seconds :: obj_id 14276
+2022-12-05T10:21:34+00:00 NOTICE order.member.updated :: Updated shamaanjum1978@gmail.com subscriber status to subscribed and language to 
+2022-12-05T10:21:34+00:00 NOTICE order_submit.success :: updateStoreOrder :: #14276 :: email: shamaanjum1978@gmail.com

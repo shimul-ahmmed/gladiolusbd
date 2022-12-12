@@ -1,0 +1,11 @@
+2022-11-22T12:17:50+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_User_Submit queued :: obj_id 1
+2022-11-22T12:28:50+00:00 NOTICE member.sync :: Updated Member gladiolusbd.web@gmail.com ( merge fields only ) :: Array
+(
+    [merge_fields] => Array
+        (
+            [FNAME] => Sabrina
+            [LNAME] => Ferdous
+        )
+
+)
+
